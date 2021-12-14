@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { Grid, ButtonGroup, Button } from "@material-ui/core";
 import ControlPanel from "./ControlPanel";
 import { PROJECTS } from "../lib/data";
 import ProjectListPanel from "./ProjectListPanel";
